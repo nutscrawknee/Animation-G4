@@ -74,10 +74,10 @@ h1{
   }
 }
 
-.moon{
+img{
   width:120px;
   height: 120px;
-  background: url("../images/moon.jpg");
+/*   background: url("../images/moon.jpg"); */
   background-position: center;
   border-radius: 50%;
   position: absolute;
